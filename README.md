@@ -19,7 +19,7 @@ This site will help you to decide whether you want to watch that particular movi
 
 ## How to use website
 
-1. Use vertical scrolling to see all the movies.
+1. Use vertical scrolling to go through all the movies.
 2. Click on the image to open a trailer, it will open a pop-up a window, which will play the tariler
 3. To close the trailer, click on cross mark (X) at upper right cornor. It will take you to main page.
 4. To see another trailer just follow the step 2 again.
