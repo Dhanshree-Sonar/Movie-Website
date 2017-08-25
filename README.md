@@ -44,4 +44,5 @@ This site will help you to decide whether you want to watch that particular movi
 
 2. Edit movies[] variable
   append your movie name to the existing array.
+  
   `movies = [<previous array list>, <Movie Name>]`
