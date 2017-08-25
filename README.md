@@ -37,7 +37,7 @@ This site will help you to decide whether you want to watch that particular movi
  
  1. Add below data
  ```
- <Movie Name> = media.Movie("<Movie Name>",
+ <Variable Name> = media.Movie("<Movie Name>",
                      "<Movie Description>",
                      "<Movie poster image link>",
                      "<Movie trailer link from YouTube>")
@@ -46,4 +46,4 @@ This site will help you to decide whether you want to watch that particular movi
 2. Edit movies[] variable
   append your movie name to the existing array.
   
-  `movies = [<previous array list>, <Movie Name>]`
+  `movies = [<previous array list>, <Variable Name>]`
