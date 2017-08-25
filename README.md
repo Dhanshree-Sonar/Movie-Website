@@ -14,6 +14,7 @@ This site will help you to decide whether you want to watch that particular movi
 1. entertainment_center.py
 2. media.py
 3. fresh_tomatoes.py
+4. README.md
   
 ## How to run
 
