@@ -21,7 +21,7 @@ This site will help you to decide whether you want to watch that particular movi
 1. Place fresh_tomatoes.py, media.py and entertainment_center.py at one location.
 2. Open entertainment_center.py with Python.
 3. Run entertainment_center.py Module (Run -> Run Module).
-4. It will open the web site.
+4. It will open the webpage.
 
 ## How to use website
 
@@ -33,9 +33,9 @@ This site will help you to decide whether you want to watch that particular movi
 
 ## Improvements
  Currently this site stores 8 movies(Avatar, Inception, Interstellar, Doctor Strange, The Martian, Arrival, The Revenant, Baby Driver) data.
- If you want to add more movies to the site then you have insert below code to your entertainment_center.py.
+ If you want to add more movies to the site then you have to insert below code to your entertainment_center.py file.
  
- 1. Add below data
+ 1. Add below code to create instace of a Movie() class
  ```
  <Variable Name> = media.Movie("<Movie Name>",
                      "<Movie Description>",
