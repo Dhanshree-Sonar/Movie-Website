@@ -32,7 +32,7 @@ This site will help you to decide whether you want to watch that particular movi
 5. If you are done surfing the movies, you can close the webpage.
 
 ## Improvements
- Currently this site stores 6 movies(Toy Story, Avatar, Inception, Interstellar, The Martian, Doctor Strange) data.
+ Currently this site stores 8 movies(Avatar, Inception, Interstellar, Doctor Strange, The Martian, Arrival, The Revenant, Baby Driver) data.
  If you want to add more movies to the site then you have insert below code to your entertainment_center.py.
  
  1. Add below data
