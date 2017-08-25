@@ -18,22 +18,22 @@ This site will help you to decide whether you want to watch that particular movi
   
 ## How to run
 
-1. Place fresh_tomatoes.py, media.py and entertainment_center.py at one location
-2. Open entertainment_center.py with Python
-3. Run entertainment_center.py Module (Run -> Run Module) 
-4. It will open the web site
+1. Place fresh_tomatoes.py, media.py and entertainment_center.py at one location.
+2. Open entertainment_center.py with Python.
+3. Run entertainment_center.py Module (Run -> Run Module).
+4. It will open the web site.
 
 ## How to use website
 
 1. Use vertical scrolling to go through all the movies.
-2. Click on the image to open a trailer, it will open a pop-up a window, which will play the trailer
+2. Click on the image to open a trailer, it will open a pop-up a window, which will play the trailer.
 3. To close the trailer, click on cross mark (X) at upper right corner. It will take you to main page.
 4. To see another trailer just follow the step 2 again.
 5. If you are done surfing the movies, you can close the webpage.
 
 ## Improvements
  Currently this site stores 6 movies(Toy Story, Avatar, Inception, Interstellar, The Martian, Doctor Strange) data.
- If you want to add more movies to the site then you have insert below code to your entertainment_center.py
+ If you want to add more movies to the site then you have insert below code to your entertainment_center.py.
  
  1. Add below data
  ```
