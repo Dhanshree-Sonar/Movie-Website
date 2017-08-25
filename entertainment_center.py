@@ -1,5 +1,4 @@
-# This module helps to create a web page which all necessary styling
-# 
+# This module helps to create a webpage, which has list of movies with all necessary styling.
 import fresh_tomatoes
 
 import media
