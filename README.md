@@ -10,6 +10,11 @@ This site will help you to decide whether you want to watch that particular movi
   1. For instruction to install Python on Windows, click [here](https://www.python.org/downloads/windows/)
   2. For instruction to install Python on Mac, click [here](https://www.python.org/downloads/mac-osx/)
   
+## File List
+1. entertainment_center.py
+2. media.py
+3. fresh_tomatoes.py
+  
 ## How to run
 
 1. Place fresh_tomatoes.py, media.py and entertainment_center.py at one location
@@ -25,4 +30,18 @@ This site will help you to decide whether you want to watch that particular movi
 4. To see another trailer just follow the step 2 again.
 5. If you are done surfing the movies, you can close the webpage.
 
-## 
+## Improvements
+ Currently this site stores 6 movies(Toy Story, Avatar, Inception, Interstellar, The Martian, Doctor Strange) data.
+ If you want to add more movies to the site then you have insert below code to your entertainment_center.py
+ 
+ 1. Add below data
+ ```
+ <Movie Name> = media.Movie("<Movie Name>",
+                     "<Movie Description>",
+                     "<Movie poster image link>",
+                     "<Movie trailer link from YouTube>")
+ ```
+
+2. Edit movies[] variable
+  append your movie name to the existing array.
+  `movies = [<previous array list>, <Movie Name>]`
