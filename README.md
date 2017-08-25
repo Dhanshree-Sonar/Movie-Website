@@ -5,8 +5,8 @@ This site will help you to decide whether you want to watch that particular movi
 
 ## Prerequsites
 
--Internet connection
--Python
+- Internet connection
+- Python
   1. For instruction to install Python on Windows, click [here](https://www.python.org/downloads/windows/)
   2. For instruction to install Python on Mac, click [here](https://www.python.org/downloads/mac-osx/)
   
@@ -23,7 +23,6 @@ This site will help you to decide whether you want to watch that particular movi
 2. Click on the image to open a trailer, it will open a pop-up a window, which will play the tariler
 3. To close the trailer, click on cross mark (X) at upper right cornor. It will take you to main page.
 4. To see another trailer just follow the step 2 again.
-5. If you done surfing the movies, you can close the webpage.
+5. If you are done surfing the movies, you can close the webpage.
 
-
-  
+## 
