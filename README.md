@@ -7,8 +7,8 @@ This site will help you to decide whether you want to watch that particular movi
 
 -Internet connection
 -Python
-  1. For instruction to install Python on Windows, click [here](www.python.com)
-  2. For instruction to install Python on Mac, click [here](www.python.com)
+  1. For instruction to install Python on Windows, click [here](https://www.python.org/downloads/windows/)
+  2. For instruction to install Python on Mac, click [here](https://www.python.org/downloads/mac-osx/)
   
 ## How to run
 
